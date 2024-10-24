@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SPI_Printer_Middleware.Controllers.ZebraPrinterController",
+    "Method": "ImprimirEtiqueta",
+    "RelativePath": "api/ZebraPrinter/imprimir",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "SPI_Printer_Middleware.Controllers.ZebraPrintRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SPI_Printer_Middleware.props" />
+</Project>

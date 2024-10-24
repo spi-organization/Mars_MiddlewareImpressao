@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SPI_Printer_Middleware.props" />
+</Project>

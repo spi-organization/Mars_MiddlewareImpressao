@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPI_Printer_Middleware", "SPI_Printer_Middleware.csproj", "{4B0255A3-8955-444E-A5A6-43A310A79A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B0255A3-8955-444E-A5A6-43A310A79A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0255A3-8955-444E-A5A6-43A310A79A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0255A3-8955-444E-A5A6-43A310A79A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0255A3-8955-444E-A5A6-43A310A79A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3331759E-4EA6-4BFB-89C9-A24EB474D36A}
+	EndGlobalSection
+EndGlobal
